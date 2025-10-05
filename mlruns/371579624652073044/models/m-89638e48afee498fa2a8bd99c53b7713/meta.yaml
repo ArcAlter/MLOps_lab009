@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/User/Documents/VScode/MLOps/lab09/mlruns/371579624652073044/models/m-89638e48afee498fa2a8bd99c53b7713/artifacts
+creation_timestamp: 1757908395143
+experiment_id: '371579624652073044'
+last_updated_timestamp: 1757908397640
+model_id: m-89638e48afee498fa2a8bd99c53b7713
+model_type: null
+name: Iris_classifier_pipeline
+source_run_id: 46f592a6091c46e18b7a5d52da84a936
+status: 2
+status_message: null

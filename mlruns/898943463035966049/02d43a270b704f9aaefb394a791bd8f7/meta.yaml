@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Documents/VScode/MLOps/lab09/mlruns/898943463035966049/02d43a270b704f9aaefb394a791bd8f7/artifacts
+end_time: 1757907490446
+entry_point_name: ''
+experiment_id: '898943463035966049'
+lifecycle_stage: active
+run_id: 02d43a270b704f9aaefb394a791bd8f7
+run_name: flawless-kit-576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757907490402
+status: 3
+tags: []
+user_id: User

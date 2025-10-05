@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Documents/VScode/MLOps/lab09/mlruns/325360907796947531/1db986e1f7454ae4920306a7effdbe24/artifacts
+end_time: 1757908127874
+entry_point_name: ''
+experiment_id: '325360907796947531'
+lifecycle_stage: active
+run_id: 1db986e1f7454ae4920306a7effdbe24
+run_name: incongruous-fawn-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757908127835
+status: 3
+tags: []
+user_id: User

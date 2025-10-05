@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Documents/VScode/MLOps/lab09/mlruns/325360907796947531/3bb3096bcc5446f1a46c988842533e29/artifacts
+end_time: 1757907758359
+entry_point_name: ''
+experiment_id: '325360907796947531'
+lifecycle_stage: active
+run_id: 3bb3096bcc5446f1a46c988842533e29
+run_name: bedecked-steed-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757907758323
+status: 3
+tags: []
+user_id: User

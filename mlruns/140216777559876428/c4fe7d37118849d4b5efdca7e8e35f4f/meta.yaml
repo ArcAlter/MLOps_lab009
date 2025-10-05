@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Documents/VScode/MLOps/lab09/mlruns/140216777559876428/c4fe7d37118849d4b5efdca7e8e35f4f/artifacts
+end_time: 1757907766043
+entry_point_name: ''
+experiment_id: '140216777559876428'
+lifecycle_stage: active
+run_id: c4fe7d37118849d4b5efdca7e8e35f4f
+run_name: skillful-whale-437
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757907765996
+status: 3
+tags: []
+user_id: User

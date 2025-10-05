@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Documents/VScode/MLOps/lab09/mlruns/371579624652073044/016fa445ba0c4ed7859a034c05ca331a/artifacts
+deleted_time: 1757908413688
+end_time: 1757908166999
+entry_point_name: ''
+experiment_id: '371579624652073044'
+lifecycle_stage: deleted
+run_id: 016fa445ba0c4ed7859a034c05ca331a
+run_name: logistic_regression_C_10.0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757908164448
+status: 3
+tags: []
+user_id: User

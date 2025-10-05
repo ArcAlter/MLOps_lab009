@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Documents/VScode/MLOps/lab09/mlruns/140216777559876428/b3757ff4ba79456ca39270b6a9f7f547/artifacts
+end_time: 1757908132581
+entry_point_name: ''
+experiment_id: '140216777559876428'
+lifecycle_stage: active
+run_id: b3757ff4ba79456ca39270b6a9f7f547
+run_name: sneaky-tern-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757908132544
+status: 3
+tags: []
+user_id: User

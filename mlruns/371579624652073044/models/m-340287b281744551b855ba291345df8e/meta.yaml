@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/User/Documents/VScode/MLOps/lab09/mlruns/371579624652073044/models/m-340287b281744551b855ba291345df8e/artifacts
+creation_timestamp: 1757907579380
+experiment_id: '371579624652073044'
+last_updated_timestamp: 1757907581990
+model_id: m-340287b281744551b855ba291345df8e
+model_type: null
+name: wine_classifier_pipeline
+source_run_id: 0ca7a885e5d54fae92d1e9c38c62240c
+status: 2
+status_message: null

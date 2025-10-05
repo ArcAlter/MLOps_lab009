@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Documents/VScode/MLOps/lab09/mlruns/898943463035966049/27278fbb91714520a6983fda9572df48/artifacts
+end_time: 1757905197156
+entry_point_name: ''
+experiment_id: '898943463035966049'
+lifecycle_stage: active
+run_id: 27278fbb91714520a6983fda9572df48
+run_name: painted-shrike-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757905197070
+status: 3
+tags: []
+user_id: User
